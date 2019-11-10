@@ -4,6 +4,7 @@
 int main()
 {
 	printf("hello world\n");
+	printf("hello world2\n");
 	system("pause");
 	return 0;
 }
